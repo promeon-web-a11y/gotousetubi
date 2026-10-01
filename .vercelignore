@@ -1,0 +1,4 @@
+# 制作メモ・元画像は公開しない
+*.md
+docs/
+assets/images/src/
