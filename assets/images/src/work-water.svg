@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <rect width="1200" height="900" fill="#e7edf2"/>
+  <rect x="0" y="700" width="1200" height="200" fill="#d6dfe8"/>
+  <path d="M0 360 L 560 360" fill="none" stroke="#8e99a4" stroke-width="96" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M0 360 L 560 360" fill="none" stroke="#b8c1ca" stroke-width="90" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M0 360 L 560 360" fill="none" stroke="#dfe4e9" stroke-width="16.2" stroke-linecap="butt" stroke-linejoin="round" transform="translate(0,-19.8)" opacity=".8"/>
+  <rect x="520" y="300" width="120" height="120" rx="14" fill="#a9b3bd" stroke="#8e99a4" stroke-width="6"/>
+  <path d="M640 360 L 760 360 Q 820 360 820 420 L 820 900" fill="none" stroke="#8e99a4" stroke-width="96" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M640 360 L 760 360 Q 820 360 820 420 L 820 900" fill="none" stroke="#b8c1ca" stroke-width="90" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M640 360 L 760 360 Q 820 360 820 420 L 820 900" fill="none" stroke="#dfe4e9" stroke-width="16.2" stroke-linecap="butt" stroke-linejoin="round" transform="translate(0,-19.8)" opacity=".8"/>
+  <path d="M0 170 L 1200 170" fill="none" stroke="#6d7b89" stroke-width="40" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M0 170 L 1200 170" fill="none" stroke="#9aa8b6" stroke-width="34" stroke-linecap="butt" stroke-linejoin="round"/>
+  <path d="M0 170 L 1200 170" fill="none" stroke="#c9d2db" stroke-width="6.12" stroke-linecap="butt" stroke-linejoin="round" transform="translate(0,-7.48)" opacity=".8"/>
+  <rect x="300" y="148" width="28" height="44" rx="4" fill="#6d7b89"/><rect x="900" y="148" width="28" height="44" rx="4" fill="#6d7b89"/>
+  <!-- 左手（パイプを支える） -->
+    <path d="M300 640 L 400 450" stroke="#5f7891" stroke-width="110" stroke-linecap="round"/>
+  <rect x="330" y="430" width="120" height="50" rx="14" fill="#1b3350" transform="rotate(-62 390 455)"/>
+  <rect x="365" y="285" width="130" height="170" rx="40" fill="#dfe3e7" stroke="#b5bec7" stroke-width="6"/><line x1="380" y1="320" x2="480" y2="320" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/><line x1="380" y1="355" x2="480" y2="355" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/><line x1="380" y1="390" x2="480" y2="390" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/>
+  <!-- 右手（継手を回す） -->
+    <path d="M780 680 L 660 460" stroke="#4a6077" stroke-width="110" stroke-linecap="round"/>
+  <rect x="610" y="430" width="120" height="50" rx="14" fill="#1b3350" transform="rotate(60 670 455)"/>
+  <rect x="590" y="275" width="130" height="180" rx="40" fill="#dfe3e7" stroke="#b5bec7" stroke-width="6"/><line x1="605" y1="310" x2="705" y2="310" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/><line x1="605" y1="345" x2="705" y2="345" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/><line x1="605" y1="380" x2="705" y2="380" stroke="#b5bec7" stroke-width="5" stroke-linecap="round"/>
+  <path d="M560 300 A 90 90 0 0 1 700 320" fill="none" stroke="#2b4a6f" stroke-width="6" stroke-dasharray="14 10"/>
+  <path d="M700 320 l -8 -26 l 26 10 z" fill="#2b4a6f"/>
+</svg>

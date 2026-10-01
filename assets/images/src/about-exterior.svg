@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="1000" viewBox="0 0 1500 1000">
+  <rect width="1500" height="1000" fill="#dfe8f0"/>
+  <rect y="760" width="1500" height="240" fill="#b9c4ce"/>
+  <rect y="740" width="1500" height="24" fill="#a3afba"/>
+  <rect x="300" y="300" width="760" height="450" fill="#eef1f4" stroke="#aab5c0" stroke-width="6"/>
+  <path d="M270 310 L 680 170 L 1090 310 Z" fill="#7d8b99"/>
+  <rect x="380" y="380" width="110" height="90" fill="#bcd0e2" stroke="#9fb0c0" stroke-width="5"/><rect x="560" y="380" width="110" height="90" fill="#bcd0e2" stroke="#9fb0c0" stroke-width="5"/><rect x="740" y="380" width="110" height="90" fill="#bcd0e2" stroke="#9fb0c0" stroke-width="5"/><rect x="920" y="380" width="110" height="90" fill="#bcd0e2" stroke="#9fb0c0" stroke-width="5"/>
+  <rect x="380" y="540" width="200" height="210" fill="#c6cfd8" stroke="#9fb0c0" stroke-width="5"/>
+  <line x1="385" y1="560" x2="575" y2="560" stroke="#aab5c0" stroke-width="4"/><line x1="385" y1="590" x2="575" y2="590" stroke="#aab5c0" stroke-width="4"/><line x1="385" y1="620" x2="575" y2="620" stroke="#aab5c0" stroke-width="4"/><line x1="385" y1="650" x2="575" y2="650" stroke="#aab5c0" stroke-width="4"/><line x1="385" y1="680" x2="575" y2="680" stroke="#aab5c0" stroke-width="4"/><line x1="385" y1="710" x2="575" y2="710" stroke="#aab5c0" stroke-width="4"/>
+  <rect x="760" y="560" width="90" height="190" fill="#9fb0c0"/>
+  <!-- 汎用の作業車（ロゴなし） -->
+  <g transform="translate(1080,640)">
+    <path d="M0 0 L 260 0 L 300 50 L 300 120 L 0 120 Z" fill="#f4f6f8" stroke="#9aa6b2" stroke-width="5"/>
+    <path d="M200 10 L 255 10 L 285 50 L 200 50 Z" fill="#bcd0e2"/>
+    <circle cx="70" cy="125" r="30" fill="#39424b"/><circle cx="235" cy="125" r="30" fill="#39424b"/>
+  </g>
+  <circle cx="160" cy="620" r="90" fill="#b5c7a8"/><rect x="150" y="640" width="20" height="110" fill="#8a7a66"/>
+</svg>

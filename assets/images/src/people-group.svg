@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#e7edf2"/>
+  <rect x="80" y="80" width="1440" height="840" rx="24" fill="none" stroke="#b3c1cf" stroke-width="6" stroke-dasharray="26 18"/>
+  <g transform="translate(560,610) scale(1.6)" fill="none" stroke="#2b4a6f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-48 -112 Q -46 -165 0 -168 Q 46 -165 48 -112 Z" fill="#ffffff"/>
+    <circle cx="0" cy="-95" r="40" fill="#ffffff"/>
+    <path d="M-80 60 L -80 10 Q -80 -40 -30 -45 L 30 -45 Q 80 -40 80 10 L 80 60" fill="#ffffff"/>
+    <line x1="-56" y1="-114" x2="56" y2="-114"/>
+  </g><g transform="translate(1040,610) scale(1.6)" fill="none" stroke="#2b4a6f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-48 -112 Q -46 -165 0 -168 Q 46 -165 48 -112 Z" fill="#ffffff"/>
+    <circle cx="0" cy="-95" r="40" fill="#ffffff"/>
+    <path d="M-80 60 L -80 10 Q -80 -40 -30 -45 L 30 -45 Q 80 -40 80 10 L 80 60" fill="#ffffff"/>
+    <line x1="-56" y1="-114" x2="56" y2="-114"/>
+  </g><g transform="translate(800,640) scale(1.8)" fill="none" stroke="#2b4a6f" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-48 -112 Q -46 -165 0 -168 Q 46 -165 48 -112 Z" fill="#ffffff"/>
+    <circle cx="0" cy="-95" r="40" fill="#ffffff"/>
+    <path d="M-80 60 L -80 10 Q -80 -40 -30 -45 L 30 -45 Q 80 -40 80 10 L 80 60" fill="#ffffff"/>
+    <line x1="-56" y1="-114" x2="56" y2="-114"/>
+  </g>
+  <rect x="300" y="700" width="1000" height="16" rx="8" fill="#c6d2dd"/>
+</svg>
